@@ -1,7 +1,7 @@
 BACKUP ~picks_of_the_litter/backup~
 SUPPORT ~https://www.gibberlings3.net/forums/forum/28-miscellaneous-released-mods/~
 
-VERSION ~v3~
+VERSION ~v4~
 
 ALWAYS
 
@@ -14,15 +14,16 @@ ALWAYS
 
 END
 
-README ~picks_of_the_litter/readme-picks_of_the_litter.html~
+README ~picks_of_the_litter/readme-picks_of_the_litter-%LANGUAGE%.html~ ~picks_of_the_litter/readme-picks_of_the_litter.html~
 
-LANGUAGE ~English~ ~english~ ~picks_of_the_litter/english/setup.tra~
+LANGUAGE ~English~  ~english~ ~picks_of_the_litter/lang/english/setup.tra~
+LANGUAGE ~Francais~ ~french~  ~picks_of_the_litter/lang/french/setup.tra~
 
 BEGIN @0
 
 ACTION_FOR_EACH file IN pc1aeri pc1ajan pc1anom pc1ash pc1cern pc1chli pc1dwar pc1fald pc1fdru pc1felf pc1fpal pc1fran pc1fred pc1frog pc1gold pc1hood pc1jan pc1kara
                         pc1man2 pc1mazz pc1mbar pc1melf pc1meli pc1mins pc1monk pc1moon pc1mran pc1mthf pc1nali pc1safa pc1shar pc1thie pc1usur pc1vico pc1warn BEGIN
-						
+
   LAF cd_pc_portrait_copy STR_VAR source = "%file%" source_path = "picks_of_the_litter/portraits" END
 
 END
