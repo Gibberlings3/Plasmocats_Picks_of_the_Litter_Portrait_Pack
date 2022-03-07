@@ -1,5 +1,5 @@
-![Latest Release](https://img.shields.io/github/v/release/Gibberlings3/Picks_of_the_Litter_Portrait_Pack?include_prereleases&color=blue)
-![GitHub (Pre-)Release Date](https://img.shields.io/github/release-date-pre/Gibberlings3/Picks_of_the_Litter_Portrait_Pack?color=gold)
+![Latest Release](https://img.shields.io/github/v/release/Gibberlings3/Plasmocats_Picks_of_the_Litter_Portrait_Pack?include_prereleases&color=blue)
+![GitHub (Pre-)Release Date](https://img.shields.io/github/release-date-pre/Gibberlings3/Plasmocats_Picks_of_the_Litter_Portrait_Pack?color=gold)
 ![Platform](https://img.shields.io/static/v1?label=platform&message=windows%20%7C%20macOS%20%7C%20linux%20%7C%20Project%20Infinity&color=informational)
 ![Language](https://img.shields.io/static/v1?label=language&message=English%20%7C%20French&color=limegreen)
 
@@ -22,8 +22,8 @@ This collection of portraits for the player (not NPCs) is a collection of Plasmo
 
 ## 
 
-[![Created Badge](https://badges.pufler.dev/created/Gibberlings3/Picks_of_the_Litter_Portrait_Pack?style=plastic&label=Created)](https://badges.pufler.dev)
-![GitHub repo size](https://img.shields.io/github/repo-size/Gibberlings3/Picks_of_the_Litter_Portrait_Pack?style=plastic&label=repo%20size)
-[![Visits Badge](https://badges.pufler.dev/visits/Gibberlings3/Picks_of_the_Litter_Portrait_Pack?color=cyan&style=plastic&label=Visits)](https://badges.pufler.dev)
-![GitHub release (latest by date)](https://img.shields.io/github/downloads/Gibberlings3/Picks_of_the_Litter_Portrait_Pack/latest/total?color=gold&label=downloads%20latest%20release&style=plastic)
-![GitHub all releases](https://img.shields.io/github/downloads/Gibberlings3/Picks_of_the_Litter_Portrait_Pack/total?label=out%20of&color=yellow&style=plastic)
+[![Created Badge](https://badges.pufler.dev/created/Gibberlings3/Plasmocats_Picks_of_the_Litter_Portrait_Pack?style=plastic&label=Created)](https://badges.pufler.dev)
+![GitHub repo size](https://img.shields.io/github/repo-size/Gibberlings3/Plasmocats_Picks_of_the_Litter_Portrait_Pack?style=plastic&label=repo%20size)
+[![Visits Badge](https://badges.pufler.dev/visits/Gibberlings3/Plasmocats_Picks_of_the_Litter_Portrait_Pack?color=cyan&style=plastic&label=Visits)](https://badges.pufler.dev)
+![GitHub release (latest by date)](https://img.shields.io/github/downloads/Gibberlings3/Plasmocats_Picks_of_the_Litter_Portrait_Pack/latest/total?color=gold&label=downloads%20latest%20release&style=plastic)
+![GitHub all releases](https://img.shields.io/github/downloads/Gibberlings3/Plasmocats_Picks_of_the_Litter_Portrait_Pack/total?label=out%20of&color=yellow&style=plastic)
